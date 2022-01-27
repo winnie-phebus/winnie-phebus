@@ -10,7 +10,8 @@ Relevant links:
 - Google Tech Dev: https://techdevguide.withgoogle.com/profile/?no-filter=true
 - LeetCode: https://leetcode.com/windorland/
 - HackerRank: https://www.hackerrank.com/winn_phebus?hr_r=1
-
+- Stack Overflow: https://stackoverflow.com/users/17784706/windorland
+- Dev.to: https://dev.to/winnphebus
 <!---
 winnie-phebus/winnie-phebus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
