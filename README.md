@@ -5,8 +5,9 @@ I am a Computer Science major concentrating in Software at Northeastern Universi
 I am interested in Mobile App Development, and currently have Android Kotlin, Android Java, Flutter, Jetpack Compose, Kotlin Multiplatform, SwiftUI, and Swift experience.  
 I am particularly interested in multiplatform and cross-platform development for Mobile applications.
 
+<!--- 
 --  
-[![GitHub Streak](https://streak-stats.demolab.com?user=winnie-phebus&theme=calm&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=winnie-phebus&theme=calm&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)  --->
 --  
 Relevant links: 
 - Linkedin: https://www.linkedin.com/in/winnie-phebus/
