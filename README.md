@@ -36,7 +36,7 @@ Personal portfolio platform — focused on minimal UI, accessibility, and visual
 
 ---
 
-## 🌱 I’m Growing In
+## I’m Growing In 🌱 
 - Intentional visual design & illustration (SVG workflows)
 - Crafting cohesive color palettes + theme systems  
 - Clear + maintainable Markdown documentation  
